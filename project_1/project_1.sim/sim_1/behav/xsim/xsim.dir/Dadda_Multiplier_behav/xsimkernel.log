@@ -1,0 +1,7 @@
+Running: xsim.dir/Dadda_Multiplier_behav/xsimk.exe -simmode gui -wdb Dadda_Multiplier_behav.wdb -simrunnum 0 -socket 49363
+Design successfully loaded
+Design Loading Memory Usage: 18988 KB (Peak: 18988 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 19844 KB (Peak: 19844 KB)
+Simulation CPU Usage: 186 ms
