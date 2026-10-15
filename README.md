@@ -1,1 +1,1 @@
-# 3x3-Dadda-Multiplier-in-Verilog
+# 8x8-Dadda-Multiplier-in-Verilog
